@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(9, 9, 41);
+    
+    
+}
+#colorA{
+    color:white;
+
+}
+div{
+    margin: 20px;
+    margin-top: 25px;
+}
+label{
+    color: rgb(0, 255, 255);
+}
